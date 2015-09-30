@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易考原
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:56:58.021919
+#+PROPERTY: ID KR1a0083
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0083_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　讀易考原　　　　　　　易類¶
@@ -29,4 +31,3 @@
 　　　　有殊焉乾隆四十五年七月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-

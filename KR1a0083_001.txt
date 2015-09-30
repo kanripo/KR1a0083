@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易考原
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:56:58.043586
+#+PROPERTY: ID KR1a0083
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 讀易考原
 <pb:KR1a0083_WYG_001-1a>¶
 欽定四庫全書¶
 　讀易考原　　　　　　　元　蕭漢中　撰¶
@@ -918,4 +920,3 @@
 　¶
 　¶
 　讀易考原¶
-
